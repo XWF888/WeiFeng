@@ -4,7 +4,7 @@ http=ap1-jp.er3.xyz:29985, username=427156450255568896, password= ff4a3b1b-189c-
  
 http=ap1-us.er3.xyz:29988, username= 427156450255568896, password= ff4a3b1b-189c-4489-b304-3ebc60e50b48, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连美国
  
-http=ap1-sg.er3.xyz:29986, username= 427156450255568896, password= ff4a3b1b-189c-4489-b304-3ebc60e50b48, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连德国LINODE
+;http=ap1-sg.er3.xyz:29986, username= 427156450255568896, password= ff4a3b1b-189c-4489-b304-3ebc60e50b48, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连德国LINODE
  
 http=ap1-uk.er3.xyz:29987, username= 427156450255568896, password= ff4a3b1b-189c-4489-b304-3ebc60e50b48, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连英国
  

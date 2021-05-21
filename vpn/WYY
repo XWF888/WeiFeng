@@ -1,2 +1,2 @@
 http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐1
-http=43.128.37.178:2021,fast-open=false, udp-relay=false, tag=网易云音乐2
+http=43.128.37.178:2021, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐2

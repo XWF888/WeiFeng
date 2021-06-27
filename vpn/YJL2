@@ -1,1 +1,17 @@
-http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true,tls-verification=true, tag=🏳️‍🌈 总流量103GB | 剩余:102GB http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=true, tag=🇭🇰 香港节点 http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=true, tag=🇸🇬 新加坡节点 http=global.ap.fastqvpn.com:29982, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇦🇺 澳大利亚节点 http=global.ap.fastqvpn.com:29983, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇨🇦 加拿大节点 http=global.ap.fastqvpn.com:29984, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇩🇪 德国节点 http=global.ap.fastqvpn.com:29985, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇯🇵 日本节点 http=global.ap.fastqvpn.com:29987, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇬🇧 英国节点 http=global.ap.fastqvpn.com:29988, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇺🇸 美国节点
+http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true,tls-verification=true, tag=🏳️‍🌈 总流量103GB | 剩余:102GB
+
+http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=true, tag=🇭🇰 香港节点
+
+http=a1.ap.fastqvpn.com:29980, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=true, tag=🇸🇬 新加坡节点
+
+http=global.ap.fastqvpn.com:29982, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇦🇺 澳大利亚节点
+
+http=global.ap.fastqvpn.com:29983, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇨🇦 加拿大节点
+
+http=global.ap.fastqvpn.com:29984, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇩🇪 德国节点
+
+http=global.ap.fastqvpn.com:29985, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇯🇵 日本节点
+
+http=global.ap.fastqvpn.com:29987, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇬🇧 英国节点
+
+http=global.ap.fastqvpn.com:29988, username=461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, tag=🇺🇸 美国节点

@@ -4,7 +4,7 @@ http=ap1-jp.er3.xyz:29985, username=461593875140579328, password= 3177bb33-cc20-
 
 http=ap1-us.er3.xyz:29988, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一一键连美国
 
-http=ap1-sg.er3.xyz:29986, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连新加坡LINODE
+http=ap1-HK.er3.xyz:29986, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连新加坡LINODE
 
 http=ap1-uk.er3.xyz:29987, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=一键连英国
 

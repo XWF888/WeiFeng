@@ -1,1 +1,15 @@
-1
+http=a1.ap.fastqvpn.com:29980, username= 461593875140579328, password=3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=新加坡&高谭
+
+http=ap1-jp.er3.xyz:29985, username=461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=日本&东京
+
+http=ap1-us.er3.xyz:29988, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=美国&加利福尼亚
+
+http=ap1-uk.er3.xyz:29987, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false,fast-open=false, udp-relay=false, tag=英国&伦敦
+
+http=a1.er3.xyz:29980,username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=新加坡&高谭
+
+http=ap1-ge.er3.xyz:29984, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=德国&柏林
+
+http=ap1-ca.er3.xyz:29983, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=加拿大&多伦多
+
+http=ap1-au.er3.xyz:29982, username= 461593875140579328, password= 3177bb33-cc20-4c7b-8682-72383eec2d9f, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=澳大利亚&悉尼
